@@ -1,6 +1,6 @@
 Sparsözlük.
 =========================
-**![eksisözlük](https://eksisozluk.com)'ün ilk sürümlerinden esinlenerek yapılan taze bir sözlük.**
+**[eksisözlük](https://eksisozluk.com)'ün ilk sürümlerinden esinlenerek yapılan taze bir sözlük.**
 
 
 # Özellikler
